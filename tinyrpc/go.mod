@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/klauspost/compress v1.16.5
 	github.com/stretchr/testify v1.8.3
+	google.golang.org/protobuf v1.30.0
 )
 
 require (
